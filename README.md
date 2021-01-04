@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, there. Learning new things currently 
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wkd2314&show_icons=true&theme=dark)](https://github.com/wkd2314/github-readme-stats)
 
 <!--
 **wkd2314/wkd2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
